@@ -1,0 +1,84 @@
+radial:
+  cartesian:
+    amplitude: amplitude
+    latitude: lat
+    longitude: lon
+    paths:
+      2N2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/2n2_fes2022.nc
+      Eps2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/eps2_fes2022.nc
+      J1: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/j1_fes2022.nc
+      K1: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/k1_fes2022.nc
+      K2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/k2_fes2022.nc
+      L2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/l2_fes2022.nc
+      Lambda2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/lambda2_fes2022.nc
+      M2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/m2_fes2022.nc
+      M3: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/m3_fes2022.nc
+      M4: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/m4_fes2022.nc
+      M6: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/m6_fes2022.nc
+      M8: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/m8_fes2022.nc
+      MKS2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/mks2_fes2022.nc
+      MN4: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/mn4_fes2022.nc
+      MS4: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/ms4_fes2022.nc
+      MSf: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/msf_fes2022.nc
+      Mf: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/mf_fes2022.nc
+      Mm: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/mm_fes2022.nc
+      Msqm: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/msqm_fes2022.nc
+      Mtm: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/mtm_fes2022.nc
+      Mu2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/mu2_fes2022.nc
+      N2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/n2_fes2022.nc
+      N4: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/n4_fes2022.nc
+      Nu2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/nu2_fes2022.nc
+      O1: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/o1_fes2022.nc
+      P1: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/p1_fes2022.nc
+      Q1: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/q1_fes2022.nc
+      R2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/r2_fes2022.nc
+      S1: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/s1_fes2022.nc
+      S2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/s2_fes2022.nc
+      S4: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/s4_fes2022.nc
+      Sa: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/sa_fes2022.nc
+      Ssa: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/ssa_fes2022.nc
+      T2: /Users/yyy/Documents/IRP/Datasets/load_tide/unziped/t2_fes2022.nc
+    phase: phase
+tide:
+  cartesian:
+    amplitude: amplitude
+    dynamic:
+    - A5
+    latitude: lat
+    longitude: lon
+    paths:
+      2N2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/2n2_fes2022.nc
+      Eps2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/eps2_fes2022.nc
+      J1: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/j1_fes2022.nc
+      K1: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/k1_fes2022.nc
+      K2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/k2_fes2022.nc
+      L2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/l2_fes2022.nc
+      Lambda2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/lambda2_fes2022.nc
+      M2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/m2_fes2022.nc
+      M3: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/m3_fes2022.nc
+      M4: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/m4_fes2022.nc
+      M6: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/m6_fes2022.nc
+      M8: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/m8_fes2022.nc
+      MKS2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/mks2_fes2022.nc
+      MN4: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/mn4_fes2022.nc
+      MS4: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/ms4_fes2022.nc
+      MSf: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/msf_fes2022.nc
+      Mf: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/mf_fes2022.nc
+      Mm: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/mm_fes2022.nc
+      Msqm: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/msqm_fes2022.nc
+      Mtm: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/mtm_fes2022.nc
+      Mu2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/mu2_fes2022.nc
+      N2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/n2_fes2022.nc
+      N4: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/n4_fes2022.nc
+      Nu2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/nu2_fes2022.nc
+      O1: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/o1_fes2022.nc
+      P1: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/p1_fes2022.nc
+      Q1: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/q1_fes2022.nc
+      R2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/r2_fes2022.nc
+      S1: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/s1_fes2022.nc
+      S2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/s2_fes2022.nc
+      S4: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/s4_fes2022.nc
+      Sa: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/sa_fes2022.nc
+      Ssa: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/ssa_fes2022.nc
+      T2: /Users/yyy/Documents/IRP/Datasets/ocean_tide_20241025/unziped/t2_fes2022.nc
+    phase: phase

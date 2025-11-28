@@ -1,0 +1,68 @@
+{
+  "sitename": "Keyodhoo",
+  "baseline_year": 2016,
+  "transects": [
+    "T1",
+    "T2",
+    "T3",
+    "T4",
+    "T5",
+    "T6",
+    "T7",
+    "T8",
+    "T9",
+    "T10",
+    "T11"
+  ],
+  "baseline_index_per_transect": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "baseline_distance_per_transect_m": [
+    102.08607521371664,
+    105.03058746157328,
+    216.14443297103813,
+    169.22245676957812,
+    149.75049195325292,
+    121.99744665442226,
+    112.82732243729532,
+    112.91819864619096,
+    94.16823961951144,
+    87.18747223392946,
+    89.1097757508242
+  ],
+  "baseline_date_per_transect": [
+    "2016-01-03T05:39:16+00:00",
+    "2016-01-03T05:39:16+00:00",
+    "2016-01-03T05:39:16+00:00",
+    "2016-01-03T05:39:16+00:00",
+    "2016-01-03T05:39:16+00:00",
+    "2016-01-03T05:39:16+00:00",
+    "2016-01-03T05:39:16+00:00",
+    "2016-01-03T05:39:16+00:00",
+    "2016-01-03T05:39:16+00:00",
+    "2016-01-03T05:39:16+00:00",
+    "2016-01-03T05:39:16+00:00"
+  ],
+  "R_mean_m": 112.82732243729532,
+  "standardization": {
+    "mu": -0.007051695144115606,
+    "sigma": 0.23234239353307173,
+    "definition": "z = (Δd' - μ) / σ",
+    "fitted_on": "train_only"
+  },
+  "transects_geojson": "/Users/yyy/Documents/IRP/irp-yy1824/codes/CoastSat/data/Keyodhoo/Keyodhoo_hybrid_transects.geojson",
+  "epsg": null,
+  "centroid": null,
+  "notes": "R_mean based on 2016 baseline; μσ are the training-period standardization parameters of Δd'.",
+  "updated_at": "2025-08-27T13:16:59.452579Z"
+}
